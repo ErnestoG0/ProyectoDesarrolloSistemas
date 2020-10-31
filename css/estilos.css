@@ -19,6 +19,6 @@ body{
 .menu{
     text-decoration: none;
     color:#fff;
-    background: #111;
-
+    background: rgb(204, 204, 204);
+    padding: 10px;
 }

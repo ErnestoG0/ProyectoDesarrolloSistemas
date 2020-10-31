@@ -10,4 +10,15 @@ body{
     background: #111;
     color: #fff;
     padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.menu{
+    text-decoration: none;
+    color:#fff;
+    background: #111;
+
 }

@@ -17,8 +17,25 @@ body{
 }
 
 .menu{
+    padding: 10px;
+    background: #111;
+}
+
+.menu a{
     text-decoration: none;
     color:#fff;
-    background: rgb(204, 204, 204);
+    background: #111;
     padding: 10px;
+}
+.menu a:hover{
+    background: #fff;
+    color: #111;
+}
+.cuerpo{
+    background: #eaeaea;
+    padding: 30px;
+    min-height: 385px;
+}
+.footer{
+    padding: 30px;
 }
